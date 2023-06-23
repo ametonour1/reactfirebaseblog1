@@ -1,0 +1,22 @@
+.footer__main{
+    background-color: rgb(5, 9, 27);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;
+    padding: 10px 0 10px 0;
+}
+.footer__social {
+    display: flex;
+    gap: 1rem;
+}
+.footer__social button {
+    border: none;
+    background-color: transparent;
+    color: #fff;
+}
+.footer__main p {
+    color: #fff;
+    font-weight: 300;
+}
