@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactfirebaseblog1/static/css/main.23840686.css",
+    "main.js": "/reactfirebaseblog1/static/js/main.9d69adfd.js",
+    "index.html": "/reactfirebaseblog1/index.html",
+    "main.23840686.css.map": "/reactfirebaseblog1/static/css/main.23840686.css.map",
+    "main.9d69adfd.js.map": "/reactfirebaseblog1/static/js/main.9d69adfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23840686.css",
+    "static/js/main.9d69adfd.js"
+  ]
+}
